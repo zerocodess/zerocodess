@@ -7,7 +7,7 @@ aspiring Frontend-Dev & UX Designer
 * 🌍  I'm based in Germany
 * 👀  I’m interested in creating websites and applications that allow users to access and interact with the site or app
 * 🌱  I'm currently learning learning HTML, CSS and React (also improving my UX/UI-Skills)
-* 💞️  See my UX/UI-portfolio at [Notion](http://https://zisanoeztuerk.notion.site/Hi-I-m-Zisan-cc2406eb1b9346ed981e539c32a19966?pvs=4)
+* 💞️  See my UX/UI-portfolio at [Notion](https://zisanoeztuerk.notion.site/Hi-I-m-Zisan-cc2406eb1b9346ed981e539c32a19966?pvs=4)
 * 📫  You can contact me at [zisan0909@gmail.com](mailto:zisan0909@gmail.com)
 * 🤝  I'm open to collaborate on interesting projects
 
