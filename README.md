@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zisan
 =============================================================================================================================
 
-aspiring Frontend-Dev & UX Designer
+aspiring Frontend-Dev & UI/UX Designer
 -----------------------------------
 
 * 🌍  I'm based in Germany
 * 👀  I’m interested in creating websites and applications that allow users to access and interact with the site or app
-* 🌱  I'm currently learning learning HTML, CSS and React (also improving my UX/UI-Skills)
-* 💞️  See my UX/UI-portfolio at [Notion](https://zisanoeztuerk.notion.site/Hi-I-m-Zisan-cc2406eb1b9346ed981e539c32a19966?pvs=4)
-* 📫  You can contact me at [zisan0909@gmail.com](mailto:zisan0909@gmail.com)
+* 🌱  I'm currently learning learning HTML, CSS and JavaScript (also improving my UI/UX-Skills)
+* 📫  You can contact me at [zerocodes@outlook.de](mailto:zerocodes@outlook.de) or via Instagram: @zerocodes__
 * 🤝  I'm open to collaborate on interesting projects
 
 ### Skills
